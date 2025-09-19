@@ -68,7 +68,7 @@ cd wadb.sh-*.*.*/</code></pre>
     </li>
 </ol>
 
-## Настройка {#configuration}
+<h2 id="configuration">Настройка</h2>
 
 Скрипт использует `$PREFIX/etc/wadb.sh` как файл конфига.
 

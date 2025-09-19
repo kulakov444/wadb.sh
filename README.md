@@ -68,7 +68,7 @@ cd wadb.sh-*.*.*/</code></pre>
     </li>
 </ol>
 
-## Configuration {#configuration}
+<h2 id="configuration">Configuration</h2>
 
 Script sources `$PREFIX/etc/wadb.sh`, the config file.
 
