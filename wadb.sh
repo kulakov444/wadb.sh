@@ -85,3 +85,4 @@ if [ "$DISCONNECT" = 1 ]; then
 fi
 
 [ $WAKELOCK = 0 ] && termux-wake-unlock
+

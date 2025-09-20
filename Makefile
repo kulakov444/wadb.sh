@@ -55,3 +55,4 @@ uninstall:
 		~/.termux/boot/wadb_job.sh
 
 .PHONY: install setup-permissions dist clean uninstall
+
